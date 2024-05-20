@@ -25,3 +25,7 @@ returned to the initial owner.
 This project was part of a bigger implementantion in Minifabric.
 
 ###
+
+## Contact
+- **Email**: [andreaskoronias@gmail.com](mailto:andreaskoronias@gmail.com)
+- **LinkedIn**: [Andreas Koronias]www.linkedin.com/in/andreas-koronias-75491331)
