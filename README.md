@@ -1,7 +1,7 @@
 # Andreas Koronias  
 Blockchain & Smart Contract Developer | Solidity | Ethereum
 
-## 👋 About Me
+##  About Me
 I am a **Blockchain Developer** with a strong background in **Applied Mathematics** and an **MSc in Blockchain and Digital Currencies**.  
 My focus is on designing and implementing **secure, efficient smart contracts** and blockchain-based systems, primarily on **Ethereum**.
 
@@ -9,7 +9,7 @@ I enjoy working on **protocol-level logic**, token economics, and practical smar
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 **Smart Contracts & Blockchain**
 - Solidity (ERC20, staking, access control, rate limiting)
 - Ethereum, DAO concepts, token design
@@ -31,7 +31,7 @@ I enjoy working on **protocol-level logic**, token economics, and practical smar
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 ERC20 Staking Contract
 A staking smart contract allowing users to stake ERC20 tokens and earn rewards.
