@@ -1,31 +1,75 @@
-# Andreas-Koronias
-Andreas Koronias
+# Andreas Koronias  
+Blockchain & Smart Contract Developer | Solidity | Ethereum
 
-## About Me
-I am a blockchain developer with a strong background in applied mathematics, MsC in blockchain and digital Currencies, extensive experience in software development, blockchain technology, and cryptocurrency. I am passionate about building innovative solutions and contributing to the blockchain ecosystem.
+## 👋 About Me
+I am a **Blockchain Developer** with a strong background in **Applied Mathematics** and an **MSc in Blockchain and Digital Currencies**.  
+My focus is on designing and implementing **secure, efficient smart contracts** and blockchain-based systems, primarily on **Ethereum**.
 
-## Skills
-- **Programming Languages**: Solidity, Python, C, C++, Java, Fortran, Go
-- **Blockchain Technologies**: Ethereum, Hyperledger Fabric, DAO, Smart Contracts
-- **Tools and Frameworks**: MySQL, HTML, LaTeX, SAP, MS Office
-- **Languages**: Greek (native), English (fluent), French (fluent)
+I enjoy working on **protocol-level logic**, token economics, and practical smart contract use cases.
 
-## Projects
+---
 
-###  A chaincode in Go providing the following functionality(designed to work in Go playground): 
-• Initialization . An NFT can be assigned to a holder. 
-• Queries . Given a holder, return the respective NFT(s), if any. Also, given an NFT, return 
-the respective holder, if any. 
-• Transfer of ownership . The ownership of an NFT can be transferred between two 
-entities (from owner to any other person). 
-• Lending .  An NFT owner can lend (assume no interest) the NFT to any other 
-person for a period of time. After the expiration of that time period the NFT is automatically 
-returned to the initial owner.
+## 🧠 Core Skills
+**Smart Contracts & Blockchain**
+- Solidity (ERC20, staking, access control, rate limiting)
+- Ethereum, DAO concepts, token design
+- Hyperledger Fabric (Chaincode in Go)
 
-This project was part of a bigger implementantion in Minifabric.
+**Programming**
+- Solidity, Go, Python
+- C / C++, Java
 
-###
+**Tools & Concepts**
+- Git, GitHub
+- Smart contract security patterns
+- Cryptographic & mathematical foundations
 
-## Contact
-- **Email**: [andreaskoronias@gmail.com](mailto:andreaskoronias@gmail.com)
-- **LinkedIn**: [Andreas Koronias]www.linkedin.com/in/andreas-koronias-75491331)
+**Languages**
+- Greek (native)
+- English (fluent)
+- French (fluent)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 ERC20 Staking Contract
+A staking smart contract allowing users to stake ERC20 tokens and earn rewards.
+- Implements secure reward accounting
+- Designed with modularity and extensibility in mind  
+➡️ *See repository: `erc20-staking-contract`*
+
+---
+
+### 🔹 Rate-Limited Wallet
+A smart contract wallet with **rate-limiting** to mitigate rapid or malicious withdrawals.
+- Demonstrates security-first smart contract design
+- Useful for custodial and DAO treasury patterns  
+➡️ *See repository: `rate-limited-wallet`*
+
+---
+
+### 🔹 Plausible Token Demo
+A demo token contract showcasing realistic ERC20 behavior and constraints.
+- Focus on clarity and correctness
+- Educational and demo-oriented  
+➡️ *See repository: `plausible-token`*
+
+---
+
+### 🔹 NFT Chaincode (Hyperledger Fabric – Go)
+Chaincode developed as part of my MSc coursework.
+**Features:**
+- NFT initialization and assignment
+- Ownership queries (NFT ↔ holder)
+- Ownership transfer
+- Time-limited NFT lending with automatic return
+
+Part of a larger **Minifabric** implementation.  
+➡️ *See repository: `fabric-nft-chaincode`*
+
+---
+
+## 📫 Contact
+- 📧 Email: andreaskoronias@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/andreas-koronias-75491331
